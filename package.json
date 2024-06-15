@@ -10,6 +10,7 @@
     "express": "^4.19.2",
     "mongoose": "^8.4.1",
     "multer": "^1.4.5-lts.1",
+    "pg": "^8.12.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.2.1",
@@ -42,5 +43,13 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3000"
+  "proxy": "http://localhost:3000",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "coffee-script": "^1.12.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
