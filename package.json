@@ -43,11 +43,11 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3000",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {
-    "coffee-script": "^1.12.7"
+    "coffee-script": "^1.12.7",
+    "gh-pages": "^6.1.1"
   },
   "keywords": [],
   "author": "",
