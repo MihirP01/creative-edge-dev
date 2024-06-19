@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/creative-edge-dev/static/css/main.151a36a9.css",
-    "main.js": "/creative-edge-dev/static/js/main.fcef0ff1.js",
+    "main.css": "/creative-edge-dev/static/css/main.c39adaa4.css",
+    "main.js": "/creative-edge-dev/static/js/main.fbf5ba25.js",
     "static/js/453.b3444383.chunk.js": "/creative-edge-dev/static/js/453.b3444383.chunk.js",
     "index.html": "/creative-edge-dev/index.html",
-    "main.151a36a9.css.map": "/creative-edge-dev/static/css/main.151a36a9.css.map",
-    "main.fcef0ff1.js.map": "/creative-edge-dev/static/js/main.fcef0ff1.js.map",
+    "main.c39adaa4.css.map": "/creative-edge-dev/static/css/main.c39adaa4.css.map",
+    "main.fbf5ba25.js.map": "/creative-edge-dev/static/js/main.fbf5ba25.js.map",
     "453.b3444383.chunk.js.map": "/creative-edge-dev/static/js/453.b3444383.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.151a36a9.css",
-    "static/js/main.fcef0ff1.js"
+    "static/css/main.c39adaa4.css",
+    "static/js/main.fbf5ba25.js"
   ]
 }
