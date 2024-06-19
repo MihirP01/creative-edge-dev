@@ -43,11 +43,11 @@
 }
 
 .menu-image {
-  width: 70%; /* Set a relative width for the image */
-  max-width: 95%; /* Set a max width for the image */
-  height: auto; /* Maintain aspect ratio */
-  margin-top: 50px; /* Add space above the image */
-  margin-bottom: 50px; /* Add space below the image */
+  width: 100%;
+  height: auto;
+  max-width: 300px; /* Adjust based on your design */
+  margin: 0 auto; /* Center the logo */
+  display: block;
 }
 
 /* Ensure each li is on a separate line */
