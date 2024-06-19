@@ -26,10 +26,11 @@ const SlidingMenu = ({ isOpen, toggleMenu }) => {
       ></div>
       <div className={`sliding-menu ${isOpen ? "open" : ""}`}>
         <img
-          src={`${process.env.PUBLIC_URL}/Logo.svg`}
+          src={`${process.env.PUBLIC_URL}/Logo.png`}
           alt="Placeholder"
           className="menu-image"
         />
+
         <nav>
           <ul>
             <li>
